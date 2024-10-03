@@ -33,8 +33,7 @@ For api telegram everything is the same (without quotation marks), but you inser
 
 Here is an example of how it should look like
 
-![image](https://github.com/user-attachments/assets/c0daded8-ebf1-4ef7-b3fc-36d7e6d4c87e)
-
+![image](https://github.com/user-attachments/assets/d8a8e721-e87e-4b37-8a8c-0135b5a25160)
 
 # What's an “S”?
 
