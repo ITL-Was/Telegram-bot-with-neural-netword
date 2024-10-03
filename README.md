@@ -41,19 +41,19 @@ This is the system message, in short it is the text that the neural network will
 
 # How to start a telegram bot?
 
-When you have already completed the steps in “Installation”, write
+When you have already followed the steps in the “Installation” section and inserted your api keys into the .env file, write
 
 ``.\venv\Scripts\activate``.
 
-Then write the command to install the required libraries
+Then write the command to install the necessary libraries
 
 ``pip install -r requirements.txt``.
 
-And the final command (To run the telegram bot)
+And the last command (to run the Telegram bot)
 
 ``py app.py``.
 
-After that your bot (for which you made api key) will be launched
+After that, your bot (for which you made an api key) will be launched
 
 
 
